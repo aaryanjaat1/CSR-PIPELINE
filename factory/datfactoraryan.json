@@ -1,0 +1,9 @@
+{
+	"name": "datfactoraryan",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "626e0897-3a01-48f8-ad5c-c80eedafdf04",
+		"tenantId": "e14e73eb-5251-4388-8d67-8f9f2e2d5a46"
+	}
+}
